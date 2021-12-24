@@ -37,19 +37,19 @@ Internal consulting for engineering teams.
     company: Criteo
     company_url: 'www.criteo.com'
     company_logo: org-x
-    location: CParis
+    location: Paris
     date_start: '09-2017'
     date_end: '03-2018'
     description: Development of a deep reinforcement learning approach for learning hyper-parameter free optimizers for ML tasks.
 Findings resulted in a scientific publication at the LION conference.
 
- - title: Research Intern & AI consultant
+  - title: Research Intern & AI consultant
     company: Exotec Solution
     company_url: 'www.criteo.com'
     company_logo: org-x
     location: CParis
-    date_start: '09-2017'
-    date_end: '03-2018'
+    date_start: '2016'
+    date_end: '2017'
     description: |2- 
     * Development of algorithms for the synchronization of mobile robot fleets in warehouses.
     * Design, development and implementation of robust and embedded control algorithms for wheeled robots. Rewarded as
