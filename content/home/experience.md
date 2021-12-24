@@ -41,9 +41,12 @@ experience:
     location: Paris
     date_start: '2017-09-01'
     date_end: '2018-03-01'
-    description: Development of a deep reinforcement learning approach for learning hyper-parameter free optimizers for ML tasks.
+    description: |2-
+        Development of a deep reinforcement learning approach for learning hyper-parameter free optimizers for ML tasks.
+        
+        🌟 Received maximal mark from EPFL.
     
-  - title: Research Intern & AI Consultat
+  - title: Research Intern & AI Consultant
     company: Exotec
     company_url: 'https://www.exotec.com'
     company_logo: org-exotec
