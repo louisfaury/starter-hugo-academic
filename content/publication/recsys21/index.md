@@ -33,7 +33,7 @@ publication_short: In *RecSys*
 abstract: This paper extends the Distributionally Robust Optimization (DRO) approach for offline contextual bandits. Specifically, we leverage this framework to introduce a convex reformulation of the Counterfactual Risk Minimization principle. Besides relying on convex programs, our approach is compatible with stochastic optimization, and can therefore be readily adapted tothe large data regime. Our approach relies on the construction of asymptotic confidence intervals for offline contextual bandits through the DRO framework. By leveraging known asymptotic results of robust estimators, we also show how to automatically calibrate such confidence intervals, which in turn removes the burden of hyper-parameter selection for policy optimization. We present preliminary empirical results supporting the effectiveness of our approach.
 
 # Summary. An optional shortened abstract.
-summary: RecSys 2020 <span style="color:red">[oral presentation]</span>.
+summary: RecSys 2020.
 
 tags: []
 
