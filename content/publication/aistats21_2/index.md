@@ -33,7 +33,7 @@ publication_short: In *AISTATS*
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: AISTATS 2021. <span style="color:red">[oral presentation - 3.1\% acceptance rate.] text</span>.
+summary: AISTATS 2021. <span style="color:red">[oral presentation - 3.1\% acceptance rate.]</span>.
 
 tags: []
 
