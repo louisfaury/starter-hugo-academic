@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Machine Learning Researcher
     company: Criteo
-    company_url: 'www.criteo.com'
+    company_url: 'https://www.criteo.com'
     company_logo: org-gc
     location: France
     date_start: '2018'
@@ -36,17 +36,16 @@ strong theoretical guarantees. Authored several papers in top-tier conferences (
         
   - title: Research Intern
     company: Criteo
-    company_url: 'www.criteo.com'
+    company_url: 'https://www.criteo.com'
     company_logo: org-x
     location: Paris
     date_start: '09-2017'
     date_end: '03-2018'
-    description: Development of a deep reinforcement learning approach for learning hyper-parameter free optimizers for ML tasks.
-Findings resulted in a scientific publication at the LION conference.
+    description: Development of a deep reinforcement learning approach for learning hyper-parameter free optimizers for ML tasks. Findings resulted in a scientific publication at the LION conference.
 
   - title: Research Intern & AI consultant
     company: Exotec Solution
-    company_url: 'www.criteo.com'
+    company_url: 'https://www.exotec.com'
     company_logo: org-x
     location: CParis
     date_start: '2016'
