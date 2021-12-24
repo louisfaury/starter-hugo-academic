@@ -42,6 +42,19 @@ experience:
     date_start: '2017-09-01'
     date_end: '2018-03-01'
     description: Development of a deep reinforcement learning approach for learning hyper-parameter free optimizers for ML tasks. Findings resulted in a scientific publication at the LION conference.
+    
+  - title: Research Intern & AI Consultat
+    company: Exotec
+    company_url: 'https://www.exotec.com'
+    company_logo: org-exotec
+    location: Paris
+    date_start: '2016'
+    date_end: '2017'
+    description: |2-
+    
+   * Development of algorithms for the synchronization of mobile robot fleets in warehouses.
+   * Design, development and implementation of robust and embedded control algorithms for wheeled robots. Rewarded as best internship for industrial use by the Prix de la Fondation de l’École Polytechnique.
+   
 
 design:
   columns: '2'
