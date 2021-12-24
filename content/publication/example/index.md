@@ -1,19 +1,18 @@
 ---
-title: "An example conference paper"
+title: "Improved Optimistic Algorithms for Logistic Bandits"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "2020-07"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,10 +25,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In International Conference of Machine Learning
+publication_short: In *ICML*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract:
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -44,14 +43,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'http://proceedings.mlr.press/v119/faury20a.html'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://icml.cc/virtual/2020/poster/6154'
 url_project: ''
-url_slides: ''
+url_slides: 'https://icml.cc/virtual/2020/poster/6154'
 url_source: ''
-url_video: ''
+url_video: 'https://icml.cc/virtual/2020/poster/6154'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
