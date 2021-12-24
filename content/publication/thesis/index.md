@@ -28,24 +28,7 @@ publication_types: ["7"]
 publication: 
 publication_short: 
 
-abstract: In this dissertation we present recent contributions to the problem of
-optimization under bandit feedback through the design of variance-sensitive confidence intervals.
-We tackle two distincts topics: *(1)* the regret minimization task in Generalized Linear Bandits
-(GLBs for short, a broad class of non-linear parametric bandits) and *(2)* the problem of off-line
-policy optimization under bandit feedback. For *(1)* we study the effects of non-linearity in GLBs
-and challenge the current understanding that a high level of non-linearity is detrimental to the
-exploration-exploitation trade-off. We introduce improved algorithms as well as a novel analysis
-that prove that if correctly handled the regret minimization task in GLBs is not necessarily
-harder than for their linear counterparts. It can even be easier for some important members
-of the GLB family such as the Logistic Bandit. Our approach leverages a new confidence
-set which captures the non-linearity of the reward signal through its variance, along with a
-local treatment of the non-linearity through a so-called self-concordance analysis. For *(2)* we
-leverage results from the distributionally robust optimization framework to construct asymptotic
-variance-sensitive confidence intervals for the counterfactual evaluation of policies. This allows
-to ensure conservatism (sought out by risk-averse agents) while searching off-line for promising
-policies. Our confidence intervals lead to new counterfactual objectives which, contrary to their
-predecessors, are more suited for practical deployment thanks to their convex and composite
-natures.
+abstract: In this dissertation we present recent contributions to the problem of optimization under bandit feedback through the design of variance-sensitive confidence intervals. We tackle two distincts topics: *(1)* the regret minimization task in Generalized Linear Bandits (GLBs for short, a broad class of non-linear parametric bandits) and *(2)* the problem of off-line policy optimization under bandit feedback. For *(1)* we study the effects of non-linearity in GLBs and challenge the current understanding that a high level of non-linearity is detrimental to the exploration-exploitation trade-off. We introduce improved algorithms as well as a novel analysis that prove that if correctly handled the regret minimization task in GLBs is not necessarily harder than for their linear counterparts. It can even be easier for some important members of the GLB family such as the Logistic Bandit. Our approach leverages a new confidence set which captures the non-linearity of the reward signal through its variance, along with a local treatment of the non-linearity through a so-called self-concordance analysis. For *(2)* we leverage results from the distributionally robust optimization framework to construct asymptotic variance-sensitive confidence intervals for the counterfactual evaluation of policies. This allows to ensure conservatism (sought out by risk-averse agents) while searching off-line for promising policies. Our confidence intervals lead to new counterfactual objectives which, contrary to their predecessors, are more suited for practical deployment thanks to their convex and composite natures.
 
 # Summary. An optional shortened abstract.
 summary: PhD Thesis.
