@@ -8,7 +8,7 @@
 theme: minimal
 day_night: true
 font: ''
-font_size: L
+font_size: S
 
 # SEO
 
@@ -34,7 +34,7 @@ coordinates:
   longitude: 
 directions: 
 office_hours:
-appointment_url: 'https://calendly.com'
+appointment_url:
 
 # Site header
 
