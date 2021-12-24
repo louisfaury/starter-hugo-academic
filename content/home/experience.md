@@ -34,6 +34,15 @@ experience:
         * Research on bandit algorithms and reinforcement learning. Focus on the design of new algorithms with strong theoretical guarantees. Authored several papers in top-tier conferences (ICML, AISTATS, ALT).
         * Internal consulting for engineering teams on production projects (e.g.dynamic allocation of competing marketing campaigns, or efficient exploration/exploitation in bandit binary games.)
 
+  - title: Research Intern
+    company: Criteo
+    company_url: 'https://www.criteo.com'
+    company_logo: org-criteo
+    location: Paris
+    date_start: '2017-09-01'
+    date_end: '2018-03-01'
+    description: Development of a deep reinforcement learning approach for learning hyper-parameter free optimizers for ML tasks. Findings resulted in a scientific publication at the LION conference.
+
 design:
   columns: '2'
 ---
