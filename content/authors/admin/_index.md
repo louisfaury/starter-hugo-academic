@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Machine Learning
     institution: Télécom Paris
     year: 2021
   - course: MSc in Artificial Intelligence
