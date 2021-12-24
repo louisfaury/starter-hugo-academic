@@ -35,7 +35,7 @@ publication_short: In *ICML*
 abstract:
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: New algorithms and regret bounds for Logistic Bandits. Based on a new tail-inegality for self-normalized martingales.
 
 tags: []
 
