@@ -1,5 +1,6 @@
 ---
 title: "Improved Optimistic Algorithms for Logistic Bandits"
+subtitle: ICML 2020
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
