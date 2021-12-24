@@ -30,6 +30,8 @@ experience:
     date_start: '2018'
     date_end: ''
     description: |2- 
+    Responsabilities include:
+    
     * Research on bandit algorithms and reinforcement learnin. Focus on the design of new algorithms with
 strong theoretical guarantees. Authored several papers in top-tier conferences (ICML, AISTATS, ALT).
     * Internal consulting for engineering teams.
@@ -51,6 +53,8 @@ strong theoretical guarantees. Authored several papers in top-tier conferences (
     date_start: '2016'
     date_end: '2017'
     description: |2- 
+    Responsabilities include:
+    
     * Development of algorithms for the synchronization of mobile robot fleets in warehouses.
     * Design, development and implementation of robust and embedded control algorithms for wheeled robots. Rewarded as
 best internship for industrial use by the Prix de la Fondation de l’École Polytechnique
