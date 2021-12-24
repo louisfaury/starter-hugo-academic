@@ -26,38 +26,24 @@ experience:
     company: Criteo
     company_url: 'https://www.criteo.com'
     company_logo: org-gc
-    location: France
-    date_start: '2018'
+    location: Paris
+    date_start: '2018-03-01'
     date_end: ''
-    description: |2- 
-    Responsibilities include:
-    
-    * Research on bandit algorithms and reinforcement learnin. Focus on the design of new algorithms with
-strong theoretical guarantees. Authored several papers in top-tier conferences (ICML, AISTATS, ALT).
-    * Internal consulting for engineering teams.
+    description: |2-
+        Responsibilities include:
         
-  - title: Research Intern
-    company: Criteo
-    company_url: 'https://www.criteo.com'
+        * Analysing
+        * Modelling
+        * Deploying
+        
+  - title: Professor of Semiconductor Physics
+    company: University X
+    company_url: ''
     company_logo: org-x
-    location: Paris
-    date_start: '09-2017'
-    date_end: '03-2018'
-    description: Development of a deep reinforcement learning approach for learning hyper-parameter free optimizers for ML tasks. Findings resulted in a scientific publication at the LION conference.
-
-  - title: Research Intern & AI consultant
-    company: Exotec Solution
-    company_url: 'https://www.exotec.com'
-    company_logo: org-x
-    location: Paris
-    date_start: '2016'
-    date_end: '2017'
-    description: |2- 
-    Responsibilities include:
-    
-    * Development of algorithms for the synchronization of mobile robot fleets in warehouses.
-    * Design, development and implementation of robust and embedded control algorithms for wheeled robots. Rewarded as
-best internship for industrial use by the Prix de la Fondation de l’École Polytechnique
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
