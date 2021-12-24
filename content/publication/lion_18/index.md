@@ -29,7 +29,7 @@ publication_types: ["1"]
 publication: In LION
 publication_short: In *LION*
 
-abstract: 
+abstract: Learning to optimize - the idea that we can learn from data algorithms that optimize a numerical criterion - has recently been at the heart of a growing number of research efforts. One of the most challenging issues within this approach is to learn a policy that is able to optimize over classes of functions that are different from the classes that the policy was trained on. We propose a novel way of framing learning to optimize as a problem of learning a good navigation policy on a partially observable loss surface. To this end, we develop Rover Descent, a solution that allows us to learn a broad optimization policy from training only on a small set of prototypical two-dimensional surfaces that encompasses classically hard cases such as valleys, plateaus, cliffs and saddles and by using strictly zeroth-order information. We show that, without having access to gradient or curvature information, we achieve fast convergence on optimization problems not presented at training time, such as the Rosenbrock function and other two dimensional hard functions. We extend our framework to optimize over high dimensional functions and show good preliminary results.
 
 # Summary. An optional shortened abstract.
 summary: LION 2018.
