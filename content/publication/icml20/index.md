@@ -49,9 +49,9 @@ featured: false
 url_pdf: 'http://proceedings.mlr.press/v119/faury20a.html'
 url_code: ''
 url_dataset: ''
-url_poster: 'https://icml.cc/virtual/2020/poster/6154'
+url_poster: ''
 url_project: ''
-url_slides: 'https://icml.cc/virtual/2020/poster/6154'
+url_slides: 'final_slides.pdf'
 url_source: ''
 url_video: 'https://icml.cc/virtual/2020/poster/6154'
 

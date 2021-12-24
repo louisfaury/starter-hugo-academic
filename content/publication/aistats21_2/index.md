@@ -50,7 +50,7 @@ url_code: ''
 url_dataset: ''
 url_poster: 'final_poster.pdf'
 url_project: ''
-url_slides: 'https://virtual.aistats.org/virtual/2021/oral/1958'
+url_slides: 'final_slides.pdf'
 url_source: ''
 url_video: 'https://virtual.aistats.org/virtual/2021/oral/1958'
 
