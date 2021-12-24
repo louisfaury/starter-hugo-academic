@@ -48,7 +48,7 @@ featured: false
 url_pdf: 'http://proceedings.mlr.press/v132/faury21a/faury21a.pdf'
 url_code: ''
 url_dataset: ''
-url_poster: 'final_poster.pdf'
+url_poster: ''
 url_project: ''
 url_slides: 'https://virtual.aistats.org/virtual/2021/oral/1958'
 url_source: ''
