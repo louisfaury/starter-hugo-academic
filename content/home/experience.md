@@ -54,7 +54,8 @@ experience:
     
       * Development of algorithms for the synchronization of mobile robot fleets in warehouses.
       * Design, development and implementation of robust and embedded control algorithms for wheeled robots. 
-      * 🌟 Rewarded as best internship for industrial use by the Prix de la Fondation de l’École Polytechnique.
+      
+      🌟 Rewarded as best internship for industrial use by the Prix de la Fondation de l’École Polytechnique.
    
 
 design:
