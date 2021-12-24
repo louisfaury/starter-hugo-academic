@@ -6,11 +6,14 @@ title: "Improved Optimistic Algorithms for Logistic Bandits"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
+- Marc Abeille
+- Clément Calauzènes
+- Olivier Fercoq
 
 # Author notes (optional)
 #author_notes:
-#- "Equal contribution"
-#- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 
 date: "2020-07"
 doi: ""
@@ -31,7 +34,7 @@ publication_short: In *ICML*
 abstract:
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary:
 
 tags: []
 
