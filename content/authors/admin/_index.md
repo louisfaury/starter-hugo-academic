@@ -67,9 +67,11 @@ email: ""
 highlight_name: true
 ---
 
-I am a researcher at Criteo, focusing on *bandit algorithms* and *reinforcement learning*. I received my PhD in 2021; I was lucky to be supervised by Olivier Fercoq and Marc Abeille.
+I am a researcher at Criteo, focusing on <span style="color:blue">**bandit algorithms**</span> and <span style="color:blue">**reinforcement learning**</span>. 
 
-Recently, I mainly worked on understanding how to learn from structured bandit feedback in *non-linear* (and non-stationary) environments. With collaborators we derived minimax-optimal guarantees for Generalized Linear Bandits, solving a problem that had been open for more then 10 years. Beyond the theoretical results, we introduced new algorithms that improve state-of-the-art performances on highly relevant practical problems such as the Logistic Bandit. 
+I received my PhD in 2021; I was lucky to be supervised by Olivier Fercoq and Marc Abeille.
+
+Recently, I mainly worked on understanding how to learn from structured bandit feedback in <span style="color:blue">**non-linear**</span> (and non-stationary) environments. With collaborators we derived minimax-optimal guarantees for Generalized Linear Bandits, solving a problem that had been open for more then 10 years. Beyond the theoretical results, we introduced new algorithms that improve state-of-the-art performances on highly relevant practical problems such as the Logistic Bandit. 
  
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
