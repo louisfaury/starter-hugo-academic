@@ -70,4 +70,4 @@ highlight_name: true
 I am a researcher at Criteo, focusing on bandit algorithms and reinforcement learning.
 I received my PhD in 2021; I was lucky to be supervised by Olivier Fercoq and Marc Abeille. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
