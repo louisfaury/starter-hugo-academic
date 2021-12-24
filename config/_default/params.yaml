@@ -21,7 +21,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: l.faury@hotmail.fr
-phone: +33666291162
+phone: 
 address:
   street: 
   city: 
@@ -35,23 +35,6 @@ coordinates:
 directions: 
 office_hours:
 appointment_url: 'https://calendly.com'
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
 
 # Site header
 
