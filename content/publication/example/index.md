@@ -12,8 +12,8 @@ authors:
 
 # Author notes (optional)
 #author_notes:
-- "Equal contribution"
-- "Equal contribution"
+#- "Equal contribution"
+#- "Equal contribution"
 
 date: "2020-07"
 doi: ""
@@ -34,7 +34,7 @@ publication_short: In *ICML*
 abstract:
 
 # Summary. An optional shortened abstract.
-summary:
+summary: 
 
 tags: []
 
