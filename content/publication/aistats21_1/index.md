@@ -53,7 +53,7 @@ url_poster: 'final_poster.pdf'
 url_project: ''
 url_slides: 'https://virtual.aistats.org/virtual/2021/poster/1582'
 url_source: ''
-url_video: 'https://virtual.aistats.org/virtual/2021/oral/1958'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
