@@ -1,13 +1,14 @@
 ---
-title: "Instance-Wise Minimax-Optimal Algorithms for Logistic Bandits"
+title: "Self-Concordant Analysis of Generalized Linear Bandits with Forgetting"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Yoan Russac
 - admin
-- Marc Abeille
-- Clément Calauzènes
+- Olivier Cappé
+- Aurélien Garivier
 
 # Author notes (optional)
 #author_notes:
@@ -45,12 +46,12 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'http://proceedings.mlr.press/v132/faury21a/faury21a.pdf'
+url_pdf: 'http://proceedings.mlr.press/v130/russac21a/russac21a-supp.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: 'final_poster.pdf'
 url_project: ''
-url_slides: 'https://virtual.aistats.org/virtual/2021/oral/1958'
+url_slides: 'https://virtual.aistats.org/virtual/2021/poster/1582'
 url_source: ''
 url_video: 'https://virtual.aistats.org/virtual/2021/oral/1958'
 
