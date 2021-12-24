@@ -35,7 +35,7 @@ publication_short: In *AAAI*
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: AAAI 2020. <span style="color:red">[oral presentation.]</span>.
+summary: AAAI 2020 <span style="color:red">[oral presentation]</span>.
 
 tags: []
 
