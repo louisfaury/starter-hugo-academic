@@ -48,11 +48,11 @@ featured: false
 url_pdf: 'http://proceedings.mlr.press/v132/faury21a/faury21a.pdf'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'final_poster.pdf'
 url_project: ''
 url_slides: 'https://virtual.aistats.org/virtual/2021/oral/1958'
 url_source: ''
-url_video: ''https://virtual.aistats.org/virtual/2021/oral/1958
+url_video: 'https://virtual.aistats.org/virtual/2021/oral/1958'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
