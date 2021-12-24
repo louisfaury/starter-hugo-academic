@@ -1,6 +1,5 @@
 ---
 title: "Improved Optimistic Algorithms for Logistic Bandits"
-subtitle: ICML 2020
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -32,10 +31,10 @@ publication_types: ["1"]
 publication: In International Conference of Machine Learning
 publication_short: In *ICML*
 
-abstract:
+abstract: 
 
 # Summary. An optional shortened abstract.
-summary: New algorithms and regret bounds for Logistic Bandits. Based on a new tail-inegality for self-normalized martingales.
+summary: ICML 2020.
 
 tags: []
 
