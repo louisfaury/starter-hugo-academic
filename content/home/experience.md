@@ -48,8 +48,8 @@ experience:
     company_url: 'https://www.exotec.com'
     company_logo: org-exotec
     location: Paris
-    date_start: '2016'
-    date_end: '2017'
+    date_start: '2016-03-01'
+    date_end: '2017-09-01'
     description: |2-
     
    * Development of algorithms for the synchronization of mobile robot fleets in warehouses.
