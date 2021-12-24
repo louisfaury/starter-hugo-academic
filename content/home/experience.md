@@ -29,9 +29,10 @@ experience:
     location: France
     date_start: '2018'
     date_end: ''
-    description: |2- Research on bandit algorithms and reinforcement learnin. Focus on the design of new algorithms with
+    description: |2- 
+    * Research on bandit algorithms and reinforcement learnin. Focus on the design of new algorithms with
 strong theoretical guarantees. Authored several papers in top-tier conferences (ICML, AISTATS, ALT).
-Internal consulting for engineering teams.
+    * Internal consulting for engineering teams.
         
   - title: Research Intern
     company: Criteo
