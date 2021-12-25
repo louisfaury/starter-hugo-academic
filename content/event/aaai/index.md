@@ -38,7 +38,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: "final_slides.pdf"
-url_video: "https://virtual.aistats.org/virtual/2021/oral/1958"
+url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
