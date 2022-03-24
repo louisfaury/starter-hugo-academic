@@ -48,11 +48,11 @@ featured: false
 #   url: http://example.org
 
 url_pdf: 'https://arxiv.org/abs/2201.01985'
-url_code: ''
+url_code: 'https://github.com/louisfaury/logistic_bandit'
 url_dataset: ''
-url_poster: ''
+url_poster: 'final_poster.pdf'
 url_project: ''
-url_slides: ''
+url_slides: 'final_slides.pdf'
 url_source: ''
 url_video: ''
 
