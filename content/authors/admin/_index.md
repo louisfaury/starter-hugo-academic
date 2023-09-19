@@ -70,8 +70,10 @@ highlight_name: true
 
 I am a researcher at Helsing. I work on multi-agent reinforcement learning.
 
-Before that, I was a research scientist at Criteo, working on bandits and reinforcement learning. 
+Before that, I was a senior research scientist at Criteo, working on bandits and reinforcement learning.
+I also conducted applied research on representation learning, and worked with engineering teams around 
+optimal control topics.
 
-I received my PhD in 2021; I was lucky to be supervised by Olivier Fercoq and Marc Abeille.
+I received my PhD in October 2021. I was lucky to be supervised by Olivier Fercoq and Marc Abeille.
 
 Check out my [personal logs](https://cruxponent.com) on RL, control theory and statistics.
