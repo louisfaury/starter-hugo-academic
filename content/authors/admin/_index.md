@@ -6,20 +6,21 @@ title: Louis Faury
 superuser: true
 
 # Role/position/tagline
-role: Machine Learning Researcher
+role: AI Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Criteo
-  url: https://www.criteo.com/
+- name: Helsing
+  url: https://www.helsing.ai/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a researcher at Criteo, focusing on bandit algorithms and reinforcement learning.
+bio: I am an AI researcher at Helsing, focusing on MARL.
 
 # Interests to show in About widget
 interests:
-- Bandit Algorithms
 - Reinforcement Learning
+- Bandit Algorithms
+- Control Theory
 - Machine Learning
 
 # Education to show in About widget
@@ -51,14 +52,14 @@ social:
   link: https://github.com/louisfaury
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/louis-faury-b24323a3/
+  link: https://www.linkedin.com/in/louis-faury-phd-b24323a3/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -67,9 +68,10 @@ email: ""
 highlight_name: true
 ---
 
-I am a researcher at Criteo, focusing on <span style="color:blue">**bandit algorithms**</span> and <span style="color:blue">**reinforcement learning**</span>. 
+I am a researcher at Helsing. I work on multi-agent reinforcement learning.
 
-I received my PhD in 2021; I was lucky to be supervised by Olivier Fercoq and Marc Abeille. Recently, I mainly worked on understanding how to learn from structured bandit feedback in <span style="color:blue">**non-linear**</span> (and non-stationary) environments. 
- 
+Before that, I was a research scientist at Criteo, working on bandits and reinforcement learning. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I received my PhD in 2021; I was lucky to be supervised by Olivier Fercoq and Marc Abeille.
+
+Check out my [personal logs](https://cruxponent.com) on RL, control theory and statistics.
